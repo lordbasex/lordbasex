@@ -2,7 +2,7 @@
 
 Automatically generated catalog of publicly visible repositories owned by @lordbasex.
 
-**Public repositories: 49**
+**Public repositories: 50**
 
 [GitHub repositories (live)](https://github.com/lordbasex?tab=repositories) | [Back to profile](README.md)
 
@@ -13,7 +13,7 @@ Automatically generated catalog of publicly visible repositories owned by @lordb
 | Repository | Description | Language | Stars | Last push |
 | --- | --- | --- | ---: | --- |
 | [lordbasex](https://github.com/lordbasex/lordbasex) | No description provided | Python | 0 | 2026-10-22 |
-| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 18 | 2026-10-19 |
+| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 20 | 2026-10-19 |
 | [go-link-desk](https://github.com/lordbasex/go-link-desk) | Remote desktop from the browser: a portable host app streams the screen over WebRTC; the viewer only needs a browser. | Go | 2 | 2026-10-19 |
 | [go-link-tangoos](https://github.com/lordbasex/go-link-tangoos) | TangoOS: open-source NAS on Debian 13 with a macOS-style web desktop, managed over WebRTC. Part of go-link. | Go | 0 | 2026-10-16 |
 | [go-link-console](https://github.com/lordbasex/go-link-console) | go-link Console: play classic arcade games online with friends, straight from the browser. Your computer runs MAME (libretro) and streams video, sound and voice over WebRTC; friends join with a link and a PIN, no ROMs needed. Go + Pion + React. | TypeScript | 13 | 2026-10-16 |
@@ -23,7 +23,7 @@ Automatically generated catalog of publicly visible repositories owned by @lordb
 | [macdub](https://github.com/lordbasex/macdub) | Real-time offline dubbing for macOS — capture any app, transcribe, translate and speak locally. | Swift | 7 | 2026-09-24 |
 | [golang-examples](https://github.com/lordbasex/golang-examples) | Go Lang - Examples | Go | 5 | 2026-08-08 |
 | [citadel-of-sand](https://github.com/lordbasex/citadel-of-sand) | Citadel of Sand | JavaScript | 1 | 2026-07-05 |
-| [docker](https://github.com/lordbasex/docker) | Docker | Shell | 56 | 2026-05-29 |
+| [docker](https://github.com/lordbasex/docker) | Docker | Shell | 57 | 2026-05-29 |
 | [HomeKitGenQRCode](https://github.com/lordbasex/HomeKitGenQRCode) | ESP32 HomeKitGenQRCode for HomeSpan | Go | 1 | 2025-11-24 |
 | [control-de-Iluminacion](https://github.com/lordbasex/control-de-Iluminacion) | ESP32 - Control de Iluminación - Maqueta arquitectura | C++ | 0 | 2025-11-22 |
 | [wav2multi-lib](https://github.com/lordbasex/wav2multi-lib) | 🎵 wav2multi-lib - Multi-Format Audio Transcoder Library | Go | 1 | 2025-10-23 |
@@ -49,10 +49,11 @@ Automatically generated catalog of publicly visible repositories owned by @lordb
 | [iphone-app.HolaMundo](https://github.com/lordbasex/iphone-app.HolaMundo) | My first iphone app - Hola Mundo! | Objective-C | 0 | 2016-07-19 |
 | [kamailio-asterisk-class5](https://github.com/lordbasex/kamailio-asterisk-class5) | Kamailio - Asterisk Class5 | - | 4 | 2015-10-14 |
 
-## Forks and contributions (13)
+## Forks and contributions (14)
 
 | Repository | Description | Language | Stars | Last push |
 | --- | --- | --- | ---: | --- |
+| [LinPad](https://github.com/lordbasex/LinPad) | LinPad — Linux for iPad. A real Linux desktop on the iPad: native windowed desktop with tiling and workspaces, real Linux apps (Firefox, VS Code, Thunar, VLC) as native windows, ARM64 JIT, GPU via Venus/Metal, keyboard + trackpad + touch. | - | 0 | 2026-10-22 |
 | [mame2003-plus-libretro](https://github.com/lordbasex/mame2003-plus-libretro) | Updated 2018 version of MAME (0.78) for libretro. with added game support plus many fixes and improvements | - | 0 | 2026-10-10 |
 | [rtp](https://github.com/lordbasex/rtp) | A Go implementation of RTP | - | 0 | 2026-10-07 |
 | [skills](https://github.com/lordbasex/skills) | The open agent skills tool - npx skills | - | 0 | 2026-08-08 |
