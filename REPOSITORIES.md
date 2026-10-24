@@ -12,9 +12,9 @@ Automatically generated catalog of publicly visible repositories owned by @lordb
 
 | Repository | Description | Language | Stars | Last push |
 | --- | --- | --- | ---: | --- |
-| [lordbasex](https://github.com/lordbasex/lordbasex) | No description provided | Python | 0 | 2026-10-22 |
-| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 20 | 2026-10-19 |
-| [go-link-desk](https://github.com/lordbasex/go-link-desk) | Remote desktop from the browser: a portable host app streams the screen over WebRTC; the viewer only needs a browser. | Go | 2 | 2026-10-19 |
+| [lordbasex](https://github.com/lordbasex/lordbasex) | No description provided | Python | 0 | 2026-10-23 |
+| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 21 | 2026-10-19 |
+| [go-link-desk](https://github.com/lordbasex/go-link-desk) | Remote desktop from the browser: a portable host app streams the screen over WebRTC; the viewer only needs a browser. | Go | 3 | 2026-10-19 |
 | [go-link-tangoos](https://github.com/lordbasex/go-link-tangoos) | TangoOS: open-source NAS on Debian 13 with a macOS-style web desktop, managed over WebRTC. Part of go-link. | Go | 0 | 2026-10-16 |
 | [go-link-console](https://github.com/lordbasex/go-link-console) | go-link Console: play classic arcade games online with friends, straight from the browser. Your computer runs MAME (libretro) and streams video, sound and voice over WebRTC; friends join with a link and a PIN, no ROMs needed. Go + Pion + React. | TypeScript | 13 | 2026-10-16 |
 | [golink-hd](https://github.com/lordbasex/golink-hd) | go-link HD: a deterministic 2D game engine in portable C99 with its own small API, for games made with Willy Maker | C | 1 | 2026-10-16 |
