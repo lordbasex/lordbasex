@@ -12,15 +12,15 @@ Catálogo gerado automaticamente dos repositórios públicos de @lordbasex.
 
 | Repositório | Descrição | Linguagem | Estrelas | Último push |
 | --- | --- | --- | ---: | --- |
-| [lordbasex](https://github.com/lordbasex/lordbasex) | Sem descrição | Python | 0 | 2026-10-24 |
-| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 22 | 2026-10-19 |
+| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 22 | 2026-10-26 |
+| [lordbasex](https://github.com/lordbasex/lordbasex) | Sem descrição | Python | 0 | 2026-10-25 |
 | [go-link-desk](https://github.com/lordbasex/go-link-desk) | Remote desktop from the browser: a portable host app streams the screen over WebRTC; the viewer only needs a browser. | Go | 3 | 2026-10-19 |
 | [go-link-tangoos](https://github.com/lordbasex/go-link-tangoos) | TangoOS: open-source NAS on Debian 13 with a macOS-style web desktop, managed over WebRTC. Part of go-link. | Go | 0 | 2026-10-16 |
-| [go-link-console](https://github.com/lordbasex/go-link-console) | go-link Console: play classic arcade games online with friends, straight from the browser. Your computer runs MAME (libretro) and streams video, sound and voice over WebRTC; friends join with a link and a PIN, no ROMs needed. Go + Pion + React. | TypeScript | 13 | 2026-10-16 |
+| [go-link-console](https://github.com/lordbasex/go-link-console) | go-link Console: play classic arcade games online with friends, straight from the browser. Your computer runs MAME (libretro) and streams video, sound and voice over WebRTC; friends join with a link and a PIN, no ROMs needed. Go + Pion + React. | TypeScript | 14 | 2026-10-16 |
 | [golink-hd](https://github.com/lordbasex/golink-hd) | go-link HD: a deterministic 2D game engine in portable C99 with its own small API, for games made with Willy Maker | C | 1 | 2026-10-16 |
 | [go-link](https://github.com/lordbasex/go-link) | go-link project ecosystem: the index at go-link.org. The arcade game project moved to github.com/lordbasex/go-link-console (console.go-link.org). | HTML | 0 | 2026-10-15 |
 | [signalhub](https://github.com/lordbasex/signalhub) | Generic WebRTC signaling server in Go: device pairing codes, rooms, invitations and ephemeral TURN credentials. | Go | 0 | 2026-10-09 |
-| [macdub](https://github.com/lordbasex/macdub) | Real-time offline dubbing for macOS — capture any app, transcribe, translate and speak locally. | Swift | 7 | 2026-09-24 |
+| [macdub](https://github.com/lordbasex/macdub) | Real-time offline dubbing for macOS — capture any app, transcribe, translate and speak locally. | Swift | 8 | 2026-09-24 |
 | [golang-examples](https://github.com/lordbasex/golang-examples) | Go Lang - Examples | Go | 5 | 2026-08-08 |
 | [citadel-of-sand](https://github.com/lordbasex/citadel-of-sand) | Citadel of Sand | JavaScript | 1 | 2026-07-05 |
 | [docker](https://github.com/lordbasex/docker) | Docker | Shell | 57 | 2026-05-29 |
