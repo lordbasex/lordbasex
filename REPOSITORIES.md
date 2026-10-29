@@ -12,8 +12,8 @@ Automatically generated catalog of publicly visible repositories owned by @lordb
 
 | Repository | Description | Language | Stars | Last push |
 | --- | --- | --- | ---: | --- |
-| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 23 | 2026-10-28 |
-| [lordbasex](https://github.com/lordbasex/lordbasex) | No description provided | Python | 0 | 2026-10-27 |
+| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 53 | 2026-10-29 |
+| [lordbasex](https://github.com/lordbasex/lordbasex) | No description provided | Python | 0 | 2026-10-28 |
 | [go-link-desk](https://github.com/lordbasex/go-link-desk) | Remote desktop from the browser: a portable host app streams the screen over WebRTC; the viewer only needs a browser. | Go | 3 | 2026-10-19 |
 | [go-link-tangoos](https://github.com/lordbasex/go-link-tangoos) | TangoOS: open-source NAS on Debian 13 with a macOS-style web desktop, managed over WebRTC. Part of go-link. | Go | 0 | 2026-10-16 |
 | [go-link-console](https://github.com/lordbasex/go-link-console) | go-link Console: play classic arcade games online with friends, straight from the browser. Your computer runs MAME (libretro) and streams video, sound and voice over WebRTC; friends join with a link and a PIN, no ROMs needed. Go + Pion + React. | TypeScript | 14 | 2026-10-16 |
