@@ -12,8 +12,8 @@ Catálogo generado automáticamente de los repositorios públicos de @lordbasex.
 
 | Repositorio | Descripción | Lenguaje | Estrellas | Último push |
 | --- | --- | --- | ---: | --- |
-| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 53 | 2026-10-29 |
-| [lordbasex](https://github.com/lordbasex/lordbasex) | Sin descripción | Python | 0 | 2026-10-28 |
+| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 173 | 2026-10-30 |
+| [lordbasex](https://github.com/lordbasex/lordbasex) | Sin descripción | Python | 1 | 2026-10-29 |
 | [go-link-desk](https://github.com/lordbasex/go-link-desk) | Remote desktop from the browser: a portable host app streams the screen over WebRTC; the viewer only needs a browser. | Go | 3 | 2026-10-19 |
 | [go-link-tangoos](https://github.com/lordbasex/go-link-tangoos) | TangoOS: open-source NAS on Debian 13 with a macOS-style web desktop, managed over WebRTC. Part of go-link. | Go | 0 | 2026-10-16 |
 | [go-link-console](https://github.com/lordbasex/go-link-console) | go-link Console: play classic arcade games online with friends, straight from the browser. Your computer runs MAME (libretro) and streams video, sound and voice over WebRTC; friends join with a link and a PIN, no ROMs needed. Go + Pion + React. | TypeScript | 14 | 2026-10-16 |
@@ -47,7 +47,7 @@ Catálogo generado automáticamente de los repositorios públicos de @lordbasex.
 | [ESP8266-Relay-Control-v1.0](https://github.com/lordbasex/ESP8266-Relay-Control-v1.0) | ESP8266 Relay Control v1.0 | Arduino | 0 | 2017-07-07 |
 | [PintercomSIP](https://github.com/lordbasex/PintercomSIP) | Raspberry Pi as a Intercom SIP | Python | 0 | 2017-02-21 |
 | [iphone-app.HolaMundo](https://github.com/lordbasex/iphone-app.HolaMundo) | My first iphone app - Hola Mundo! | Objective-C | 0 | 2016-07-19 |
-| [kamailio-asterisk-class5](https://github.com/lordbasex/kamailio-asterisk-class5) | Kamailio - Asterisk Class5 | - | 4 | 2015-10-14 |
+| [kamailio-asterisk-class5](https://github.com/lordbasex/kamailio-asterisk-class5) | Kamailio - Asterisk Class5 | - | 5 | 2015-10-14 |
 
 ## Forks y contribuciones (14)
 
