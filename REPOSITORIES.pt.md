@@ -2,18 +2,19 @@
 
 Catálogo gerado automaticamente dos repositórios públicos de @lordbasex.
 
-**Repositórios públicos: 50**
+**Repositórios públicos: 51**
 
 [Repositórios no GitHub (ao vivo)](https://github.com/lordbasex?tab=repositories) | [Voltar ao perfil](README.pt.md)
 
 > As descrições permanecem no idioma original. O GitHub Actions atualiza esta página; não a edite manualmente.
 
-## Projetos próprios (36)
+## Projetos próprios (37)
 
 | Repositório | Descrição | Linguagem | Estrelas | Último push |
 | --- | --- | --- | ---: | --- |
-| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 293 | 2026-11-01 |
-| [lordbasex](https://github.com/lordbasex/lordbasex) | Sem descrição | Python | 1 | 2026-10-31 |
+| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 326 | 2026-11-02 |
+| [LordOS-wallpapers](https://github.com/lordbasex/LordOS-wallpapers) | Moving wallpapers for LordOS, downloaded on demand, with credits | - | 0 | 2026-11-01 |
+| [lordbasex](https://github.com/lordbasex/lordbasex) | Sem descrição | Python | 1 | 2026-11-01 |
 | [go-link-desk](https://github.com/lordbasex/go-link-desk) | Remote desktop from the browser: a portable host app streams the screen over WebRTC; the viewer only needs a browser. | Go | 3 | 2026-10-19 |
 | [go-link-tangoos](https://github.com/lordbasex/go-link-tangoos) | TangoOS: open-source NAS on Debian 13 with a macOS-style web desktop, managed over WebRTC. Part of go-link. | Go | 0 | 2026-10-16 |
 | [go-link-console](https://github.com/lordbasex/go-link-console) | go-link Console: play classic arcade games online with friends, straight from the browser. Your computer runs MAME (libretro) and streams video, sound and voice over WebRTC; friends join with a link and a PIN, no ROMs needed. Go + Pion + React. | TypeScript | 14 | 2026-10-16 |
