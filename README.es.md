@@ -72,7 +72,19 @@ Servidor de señalización WebRTC en Go con emparejamiento de dispositivos, sala
 
 <sub>Go · WebRTC · TURN</sub>
 
-### [Agentes de IA | SentinelDesk](https://github.com/lordbasex/sentineldesk)
+### [📱 LinPad](https://github.com/lordbasex/LinPad)
+
+Linux para iPad: un escritorio Linux real con ventanas, tiling y espacios de trabajo, que ejecuta Firefox, VS Code y VLC como ventanas nativas, con JIT ARM64 y aceleración GPU vía Venus/Metal.
+
+<sub>C · iPadOS · ARM64 · Venus / Metal</sub>
+
+### [🗄️ TangoOS](https://github.com/lordbasex/go-link-tangoos)
+
+NAS Open Source sobre Debian 13 con escritorio web estilo macOS, administrado de forma remota mediante WebRTC. Parte de la familia go-link · [tangoos.go-link.org](https://tangoos.go-link.org)
+
+<sub>Go · Debian · NAS · WebRTC</sub>
+
+### [🤖 SentinelDesk](https://github.com/lordbasex/sentineldesk)
 
 Entorno colaborativo para personas y agentes de IA, con un espacio de trabajo integrado similar a un escritorio.
 
@@ -83,6 +95,7 @@ Entorno colaborativo para personas y agentes de IA, con un espacio de trabajo in
 | Especialidad | Repositorio | Descripción |
 | --- | --- | --- |
 | Ecosistema WebRTC | [go-link](https://github.com/lordbasex/go-link) | Sitio central multilingüe de la familia de aplicaciones go-link |
+| VoIP / IA | [AsteriskVoiceBridge](https://github.com/lordbasex/AsteriskVoiceBridge) | Framework de IA para Asterisk usando ARI y External Media |
 | IoT / Go | [HomeKitGenQRCode](https://github.com/lordbasex/HomeKitGenQRCode) | Etiquetas imprimibles con QR de HomeKit para dispositivos ESP32 |
 | macOS / hardware | [OpenCore EFI - Z590](https://github.com/lordbasex/EFI-GIGABYTE-Z590-AORUS-ELITE-i9-10900K) | Configuración OpenCore EFI documentada para equipos Gigabyte Z590 |
 
