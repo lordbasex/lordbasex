@@ -12,8 +12,8 @@ Catálogo generado automáticamente de los repositorios públicos de @lordbasex.
 
 | Repositorio | Descripción | Lenguaje | Estrellas | Último push |
 | --- | --- | --- | ---: | --- |
-| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 442 | 2026-11-10 |
-| [lordbasex](https://github.com/lordbasex/lordbasex) | Sin descripción | Python | 1 | 2026-11-09 |
+| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 466 | 2026-11-11 |
+| [lordbasex](https://github.com/lordbasex/lordbasex) | Sin descripción | Python | 1 | 2026-11-10 |
 | [go-link-desk](https://github.com/lordbasex/go-link-desk) | Remote desktop from the browser: a portable host app streams the screen over WebRTC; the viewer only needs a browser. | Go | 4 | 2026-11-03 |
 | [LordOS-wallpapers](https://github.com/lordbasex/LordOS-wallpapers) | Moving wallpapers for LordOS, downloaded on demand, with credits | - | 0 | 2026-11-01 |
 | [go-link-tangoos](https://github.com/lordbasex/go-link-tangoos) | TangoOS: open-source NAS on Debian 13 with a macOS-style web desktop, managed over WebRTC. Part of go-link. | Go | 0 | 2026-10-16 |
