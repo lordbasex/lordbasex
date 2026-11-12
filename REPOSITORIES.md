@@ -2,7 +2,7 @@
 
 Automatically generated catalog of publicly visible repositories owned by @lordbasex.
 
-**Public repositories: 51**
+**Public repositories: 52**
 
 [GitHub repositories (live)](https://github.com/lordbasex?tab=repositories) | [Back to profile](README.md)
 
@@ -12,8 +12,8 @@ Automatically generated catalog of publicly visible repositories owned by @lordb
 
 | Repository | Description | Language | Stars | Last push |
 | --- | --- | --- | ---: | --- |
-| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 466 | 2026-11-11 |
-| [lordbasex](https://github.com/lordbasex/lordbasex) | No description provided | Python | 1 | 2026-11-10 |
+| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 482 | 2026-11-12 |
+| [lordbasex](https://github.com/lordbasex/lordbasex) | No description provided | Python | 1 | 2026-11-11 |
 | [go-link-desk](https://github.com/lordbasex/go-link-desk) | Remote desktop from the browser: a portable host app streams the screen over WebRTC; the viewer only needs a browser. | Go | 4 | 2026-11-03 |
 | [LordOS-wallpapers](https://github.com/lordbasex/LordOS-wallpapers) | Moving wallpapers for LordOS, downloaded on demand, with credits | - | 0 | 2026-11-01 |
 | [go-link-tangoos](https://github.com/lordbasex/go-link-tangoos) | TangoOS: open-source NAS on Debian 13 with a macOS-style web desktop, managed over WebRTC. Part of go-link. | Go | 0 | 2026-10-16 |
@@ -50,10 +50,11 @@ Automatically generated catalog of publicly visible repositories owned by @lordb
 | [iphone-app.HolaMundo](https://github.com/lordbasex/iphone-app.HolaMundo) | My first iphone app - Hola Mundo! | Objective-C | 0 | 2016-07-19 |
 | [kamailio-asterisk-class5](https://github.com/lordbasex/kamailio-asterisk-class5) | Kamailio - Asterisk Class5 | - | 5 | 2015-10-14 |
 
-## Forks and contributions (14)
+## Forks and contributions (15)
 
 | Repository | Description | Language | Stars | Last push |
 | --- | --- | --- | ---: | --- |
+| [Strata](https://github.com/lordbasex/Strata) | Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. | - | 0 | 2026-11-11 |
 | [LinPad](https://github.com/lordbasex/LinPad) | LinPad — Linux for iPad. A real Linux desktop on the iPad: native windowed desktop with tiling and workspaces, real Linux apps (Firefox, VS Code, Thunar, VLC) as native windows, ARM64 JIT, GPU via Venus/Metal, keyboard + trackpad + touch. | - | 0 | 2026-10-22 |
 | [mame2003-plus-libretro](https://github.com/lordbasex/mame2003-plus-libretro) | Updated 2018 version of MAME (0.78) for libretro. with added game support plus many fixes and improvements | - | 0 | 2026-10-10 |
 | [rtp](https://github.com/lordbasex/rtp) | A Go implementation of RTP | - | 0 | 2026-10-07 |
