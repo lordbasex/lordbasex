@@ -12,8 +12,8 @@ Catálogo generado automáticamente de los repositorios públicos de @lordbasex.
 
 | Repositorio | Descripción | Lenguaje | Estrellas | Último push |
 | --- | --- | --- | ---: | --- |
-| [lordbasex](https://github.com/lordbasex/lordbasex) | Sin descripción | Python | 1 | 2026-11-13 |
-| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 503 | 2026-11-12 |
+| [LordOS](https://github.com/lordbasex/LordOS) | LordOS — a free, fast and secure GNU/Linux distribution based on Debian, with its own desktop environment: display server and Wayland compositor in C, a React UI engine on QuickJS, and private native apps. | C | 514 | 2026-11-15 |
+| [lordbasex](https://github.com/lordbasex/lordbasex) | Sin descripción | Python | 1 | 2026-11-14 |
 | [go-link-desk](https://github.com/lordbasex/go-link-desk) | Remote desktop from the browser: a portable host app streams the screen over WebRTC; the viewer only needs a browser. | Go | 4 | 2026-11-03 |
 | [LordOS-wallpapers](https://github.com/lordbasex/LordOS-wallpapers) | Moving wallpapers for LordOS, downloaded on demand, with credits | - | 0 | 2026-11-01 |
 | [go-link-tangoos](https://github.com/lordbasex/go-link-tangoos) | TangoOS: open-source NAS on Debian 13 with a macOS-style web desktop, managed over WebRTC. Part of go-link. | Go | 0 | 2026-10-16 |
@@ -55,7 +55,7 @@ Catálogo generado automáticamente de los repositorios públicos de @lordbasex.
 | Repositorio | Descripción | Lenguaje | Estrellas | Último push |
 | --- | --- | --- | ---: | --- |
 | [Strata](https://github.com/lordbasex/Strata) | Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. | - | 0 | 2026-11-11 |
-| [LinPad](https://github.com/lordbasex/LinPad) | LinPad — Linux for iPad. A real Linux desktop on the iPad: native windowed desktop with tiling and workspaces, real Linux apps (Firefox, VS Code, Thunar, VLC) as native windows, ARM64 JIT, GPU via Venus/Metal, keyboard + trackpad + touch. | - | 0 | 2026-10-22 |
+| [LinPad](https://github.com/lordbasex/LinPad) | LinPad — Linux for iPad. A real Linux desktop on the iPad: native windowed desktop with tiling and workspaces, real Linux apps (Firefox, VS Code, Thunar, VLC) as native windows, ARM64 JIT, GPU via Venus/Metal, keyboard + trackpad + touch. | - | 1 | 2026-10-22 |
 | [mame2003-plus-libretro](https://github.com/lordbasex/mame2003-plus-libretro) | Updated 2018 version of MAME (0.78) for libretro. with added game support plus many fixes and improvements | - | 0 | 2026-10-10 |
 | [rtp](https://github.com/lordbasex/rtp) | A Go implementation of RTP | - | 0 | 2026-10-07 |
 | [skills](https://github.com/lordbasex/skills) | The open agent skills tool - npx skills | - | 0 | 2026-08-08 |
